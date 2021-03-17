@@ -6,6 +6,6 @@ Acabei começando depois pois estava sem computador então corri pra terminar as
 ### TODO
 
 - [ ] Adicionar mais perguntas
-- [ ] Aprender mais sobre widgets e como crias os meus.
+- [ ] Aprender mais sobre widgets e como criar os meus.
 
 
